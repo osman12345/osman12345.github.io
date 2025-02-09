@@ -17,4 +17,4 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
 
 ## Get in Touch
 - Email: ayman23977@gmail.com(ayman23977@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/ayman-osman/
+- LinkedIn: https://www.linkedin.com/in/ayman-osman/(https://www.linkedin.com/in/ayman-osman/)
