@@ -12,7 +12,9 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
   The DNA to Protein Translation Tool is a simple web-based application that translates a given DNA sequence into its corresponding protein sequences.
 - [Multi-Omics Data Integration](https://github.com/osman12345/Multi-Omics-Data-Integration): Leading a project that integrates genomic, transcriptomic, and epigenomics data to identify biomarkers and therapeutic targets in heart diseases. Developing analysis pipelines using bash and R/Bioconductor packages.
 - [ChIP-Seq Data Analysis](https://github.com/osman12345/ChIP-Seq-Data-Analysis): Chip-seq data analysis using R/bioconductor.
-- [CUT&Tag data analysis](https://github.com/osman12345/CutTag), specifically for histone modifications, using HPC systems. 
+- [CUT&Tag data analysis](https://github.com/osman12345/CutTag), specifically for histone modifications, using HPC systems.
+- [RNA-seq data analysis](https://github.com/osman12345/RNA-seq): RNA-Seq data analysis, including data preprocessing, differential expression analysis, visualization, and functional enrichment
+
 ## Skills
 - Programming Languages: R, Bash, and python
 - Tools: Github, conda, slurm, nextflow, cloud computing.
