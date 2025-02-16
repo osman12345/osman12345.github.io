@@ -17,6 +17,10 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
 - Programming Languages: R, Bash, and python
 - Tools: Github, conda, slurm, nextflow, cloud computing.
 
+## Education
+- PhD in medical science, Linköping University, Sweden. 2017.
+- MSc in molecular biology, Skövde University, Sweden. 2011.
+
 ## Get in Touch
 - Email: [ayman23977@gmail.com](mailto:ayman23977@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/ayman-osman/](https://www.linkedin.com/in/ayman-osman/)
