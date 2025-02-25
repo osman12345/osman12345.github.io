@@ -20,6 +20,7 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
 ## Education
 - PhD in medical science, Linköping University, Sweden. 2017.
 - MSc in molecular biology, Skövde University, Sweden. 2011.
+- Genomic Data Science Specialization, Johns Hopkins University & Coursera, 2025.
 
 ## Get in Touch
 - Email: [ayman23977@gmail.com](mailto:ayman23977@gmail.com)
