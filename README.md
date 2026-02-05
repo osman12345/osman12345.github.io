@@ -2,6 +2,7 @@
 Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics research. My work focuses on integrating various omics data to uncover insights into complex biological systems, particularly in the context of cancer research. I have extensive experience in analyzing epigenomic, proteomic, and gene expression data analysis, utilizing both command line tools and R/Bioconductor for my analyses.
 
 ## Projects
+- [sRNAtlas](https://github.com/osman12345/sRNAtlas/tree/main) is a powerful, user-friendly application for comprehensive small RNA sequencing (sRNA-seq) data analysis.
 - [RNAseq Differential Expression Analysis Shiny App](https://github.com/osman12345/RNAseq_analysis) This tool performs RNAseq differential expression analysis using edgeR and limma. It allows users to upload count data and sample metadata, choose species, and then run the analysis. The app generates diagnostic plots and tables for visualization and lets users download the differential expression results.
   
   Link to the app:
