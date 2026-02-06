@@ -3,6 +3,7 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
 
 ## Projects
 - [sRNAtlas](https://github.com/osman12345/sRNAtlas/tree/main) is a powerful, user-friendly application for comprehensive small RNA sequencing (sRNA-seq) data analysis.
+- [EpiNexus](https://github.com/osman12345/EpiNexus): A comprehensive epigenomics analysis platform for ChIP-seq, CUT&Tag, CUT&RUN, and ATAC-seq data. Analyze histone modifications, transcription factor binding, and chromatin accessibility with an intuitive web interface.
 - [RNAseq Differential Expression Analysis Shiny App](https://github.com/osman12345/RNAseq_analysis) This tool performs RNAseq differential expression analysis using edgeR and limma. It allows users to upload count data and sample metadata, choose species, and then run the analysis. The app generates diagnostic plots and tables for visualization and lets users download the differential expression results.
   
   Link to the app:
